@@ -1,0 +1,2 @@
+data is publicly available physics collision research:
+https://archive.ics.uci.edu/dataset/347/hepmass
